@@ -45,7 +45,7 @@ body {
 {
     display: grid;
     grid-template-columns: 50px 1fr;
-    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .profile
